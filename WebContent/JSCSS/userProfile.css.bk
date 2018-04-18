@@ -1,0 +1,150 @@
+body{
+	/*background-image :url("Pictures/img.jpg");*/
+	  background-color: #dadada;	
+	  background-position: -0px -100px;
+	  background-size: 1300px 1000px;font-family: 'Palatino Linotype';
+}
+
+#header {
+	width: 1000px;
+	margin: auto;
+	height: 60px;
+	overflow: hidden;
+	background: #4D5157;
+	text-align: right;
+	color: white;
+}
+
+#search {
+	float: left;
+	margin-left: 20px;
+	font-size: 18px;
+	margin-top: 20px; 
+	width: 460px;
+}
+#content {
+	width: 1000px;
+	margin: auto;
+	margin-top: 10px;
+}
+#userImg {
+	width: 300px;
+	height: auto;
+}
+#subConent {
+	margin-top: 10px;
+	background-color: #a1120C;
+}
+#editPicture {
+	width: 300px;
+	float:left;
+	clear: left;
+}
+#info {
+	/*float: left;*/
+	height: 389px;
+	overflow: auto;
+}
+
+#projects{
+	padding-left: 10px;
+	height: 440px;
+	overflow: auto;
+	clear:both;
+}
+img {
+	height: 200px;
+	width: 250px;
+}
+#imgDiv {
+	margin-left: 5px;
+	margin-right: 7.5px;
+	width: 300px;
+	margin-top: 10px;
+	float: left;
+	height: 450px;
+}
+.projects {
+	float: left;
+	width: 300px;
+}
+
+p {
+	display: inline;
+}
+
+#groupName {
+	margin-left: 206px;
+}
+#fName {
+	margin-left: 221px;
+}
+#lName {
+	margin-left: 223px;
+}
+#email {
+	margin-left: 259px;
+}
+#phoneNumber {
+	margin-left: 188px;
+}
+#toggleEmail {
+	margin-left: 95px;
+}
+#webSpan {
+	margin-left: 245px;
+	background-color: white;
+}
+#webSpan a {
+	text-decoration: none;
+}
+#togglePhoneNumber {
+	
+}
+#descriptionP {
+	float: left;
+}
+#comments {
+	/*margin-left: 224px;*/
+}
+#donations {
+	margin-left: 229px;
+}
+#tOSp {
+	float: left;
+}
+#tosSpan {
+	margin: 2px;
+	width: 150px;
+	background-color: white;
+	margin-left: 197px;
+	float: left;
+}
+#livingLocation {
+	clear: both;
+}
+#livingLocationP {
+	float: left;
+}
+#livingLocationSpan  {
+	width: 150px;
+	background-color: white;
+	margin-left: 208px;
+	float: left;
+}
+#workingLocation {
+	clear: both;
+}
+#workingLocationP {
+	float: left;
+}
+#workingLocationSpan  {
+	width: 150px;
+	background-color: white;
+	margin-left: 179px;
+	float: left;
+}
+#TOSSelect {
+	margin-left: 175px;
+	width: 150px;
+}

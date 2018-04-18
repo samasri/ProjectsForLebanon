@@ -1,0 +1,65 @@
+.searchResults {
+	width: 500px;
+	height: 200px;
+	margin: 5px;
+	float: left;
+}
+
+.searchResults img {
+	margin: 5px;
+	width:200px;
+	height: 200px;
+	float: left;
+}
+
+#header {
+	width: 990px;
+	margin: auto;
+	height: 60px;
+	overflow: hidden;
+	background: #4D5157;
+	text-align: right;
+	color: white;
+	margin: auto;
+	padding-right: 10px;
+}
+
+#search {
+	float: left;
+	margin-left: 20px;
+	font-size: 18px;
+	margin-top: 20px; 
+	width: 240px;
+}
+
+.searchRadios {
+	float: left;
+	display: inline;
+}
+
+#dashBoardIcon {
+	display: block;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-left: 20px;
+	margin-top: -20px;
+}
+#dashBoardPic {
+	width: 50px;
+	height: 50px;
+	margin: 0;
+}
+
+#profileIcon {
+	display: block;
+	width: 100px;
+	height: 100px;
+	float: left;
+	margin-top: -15px;
+}
+#profileIconPic {
+	width: 50px;
+	height: 50px;
+	margin: 0;
+}

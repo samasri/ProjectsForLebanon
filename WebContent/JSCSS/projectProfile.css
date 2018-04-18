@@ -1,0 +1,97 @@
+body{
+	background-color: #dadada;	
+	background-position: -0px -100px;
+	background-size: 1300px 1000px;
+	font-family: 'Palatino Linotype';
+}
+
+#header {
+	width: 990px;
+	margin: auto;
+	height: 60px;
+	overflow: hidden;
+	background: #4d5157;
+	text-align: right;
+	color: white;
+	margin: auto;
+	padding-right: 10px;
+}
+
+p {
+	display: inline;
+}
+#search {
+	float: left;
+	margin-left: 20px;
+	font-size: 18px;
+	margin-top: 20px; 
+	width: 460px;
+}
+#content {
+	width: 1000px;
+	margin: auto;
+	margin-top: 10px;
+	height: 749px;
+}
+
+#info {
+	background-color: #a1120c;
+	height: 700px;
+}
+
+#projectImg {
+	width: 300px;
+	height: auto;
+	margin-top: 5px;
+}
+#projectImgDiv {
+	width: 300px;
+	height: auto;
+	margin: auto;
+	margin-top: 10px;
+}
+
+#contactPerson {
+	float: right;
+	margin-right: 100px;
+}
+
+.properties {
+	padding: 2px;
+}
+
+#projectProperties {
+	margin-left: 120px;
+}
+
+#editProjectImg {
+	width: 300px;
+}
+
+#status {
+	margin-left: 98px;
+}
+#name {
+	margin-left: 45px;
+}
+#date {
+	margin-left: 76px;
+}
+#age {
+	margin-left: 65px;
+}
+#skills {
+	margin-left: 47px;
+}
+#needs {
+	margin-left: 94px;
+}
+#fName {
+	margin-left: 28px;
+}
+#lName {
+	margin-left: 30px;
+}
+#email {
+	margin-left: 66px;
+}
