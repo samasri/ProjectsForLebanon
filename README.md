@@ -14,7 +14,7 @@ Screenshots of the website as its developed so far is found in the [screenshots]
 
 Description of screenshots:
 Homepage: the first page a viewer would see when visiting the website. The user can sign up or sign in using this page.
-![Homepage](https://github.com/samasri/ProjectsForLebanon/blob/master/Screenshots/1.%20Homepage.png | width = 10)
+<img src="https://github.com/samasri/ProjectsForLebanon/blob/master/Screenshots/1.%20Homepage.png" width = "10">
 Create Profile - Upload Picture: When a new user signs up, this page is visited to upload their picture.
 ![Create Profile - Upload Picture](https://github.com/samasri/ProjectsForLebanon/blob/master/Screenshots/2.%20CreateProfile%20-%20UploadPicture.png)
 Create Profile - Enter Info: When a new user is signing up, this page is visited to take their information (name, email...).
