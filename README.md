@@ -1,8 +1,10 @@
-# Description
+# Motivation Behind Projects For Lebanon
 The development of this web application started in October 2015. It is intended for an NGO with the mission to improve volunteering and community service experience throughout Lebanon. The website’s goal is connecting volunteers to NGOs via a Facebook-like interface. Due to university course load and other responsibilities, I resigned from working on it in February 2016.
 
 # Technical Description
-This project is implemented using Java servlets. The servlets interact with a MySQL server in order to provide their functionality. More detailed technical description and known bugs are found in the [documentation file](https://github.com/samasri/ProjectsForLebanon/blob/master/Documentation.pdf).
+This project is implemented using Java servlets that interact with a MySQL database. 
+Browsing session information are leveraged in JSP in order to keep users logged in as long as they do not exit the browser (or exceed time limit).
+More detailed technical description and known bugs are found in the [documentation file](https://github.com/samasri/ProjectsForLebanon/blob/master/Documentation.pdf).
 
 # Directory Description
 * **Database:** Contains the database schema and the SQL queries to create and populate the database.
